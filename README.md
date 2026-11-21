@@ -19,25 +19,25 @@ Instead of simply displaying metrics, this dashboard is designed to identify tre
 A high-level overview of weekly performance, displaying total and average daily activity metrics, date/week filters, and an automatically generated narrative highlighting the highest-performing pillar.
 *Purpose:* Provide an immediate understanding of overall performance without requiring users to navigate through every analytical section.
 
-![Executive Summary](Assets/executive-summary.png)
+(resumen-ejecutivo.png)
 
 ### 2. Personal Performance Tracking
 A detailed analysis of the four performance pillars, tracking historical trends, weekly comparisons, and compliance across daily habits.
 *Purpose:* Evaluate consistency, identify performance gaps, and understand how individual habits contribute to overall results.
 
-![Personal Performance Tracking](Assets/performance-tracking.png)
+(seguimiento del rendimiento.png)
 
 ### 3. Health & Body Composition
 A dedicated view for monitoring physical progress, including weight tracking, body fat, and muscle mass trends, alongside a scatter plot exploring composition correlations.
 *Purpose:* Visualize changes in body composition over time and identify general trends. *(Note: Visual association does not establish causation).*
 
-![Health & Body Composition](Assets/health-analysis.png)
+(análisis-de-salud.png)
 
 ### 4. Physical Activity & Hydration
 A granular view of daily physical activity, active minutes, and fluid consumption (water, tea, and coffee) with goal-compliance markers.
 *Purpose:* Evaluate daily activity patterns, measure goal completion, and monitor hydration habits.
 
-![Physical Activity & Hydration](Assets/activity-analysis.png)
+(análisis-de-actividad.png)
 
 ---
 
