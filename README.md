@@ -72,4 +72,4 @@ A granular view of daily physical activity, active minutes, and fluid consumptio
 * `Documentation/project-documentation.md`: Technical metrics breakdown and project context.
 
 ## 🚀 How to explore the project
-1. Clone this repository: git clone https://github.com/ricardomc41-3006/P-S_Personal_Performance_Analytics
+1. Clone this repository: git clone https://github.com/ricardomc41-3006/P-S_Personal_Performance_Analytics.git
